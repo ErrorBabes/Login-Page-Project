@@ -1,1 +1,35 @@
+body {
+  margin: 0;
+  background-color: #625e74;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.nav img {
+  width: 70px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.login-link, .term {
+  color: #615888;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+.nav-btn {
+  background-color: #61599b;
+  color: white;
+  height: 35px;
+  padding: 0 20px;
+  border-radius: 25px;
+  font-weight: bold;
+  border: none;
+}
 
